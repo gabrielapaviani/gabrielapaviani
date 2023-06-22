@@ -1,6 +1,7 @@
-### Oie devs 👋
+### Hi everyone👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+
+I currently work at the company Bambozzi Alternadores developing their ERP and I study Systems Analysis and Development.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
