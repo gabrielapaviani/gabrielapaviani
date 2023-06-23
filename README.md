@@ -12,7 +12,7 @@ object **GABRIELA** {
  val acknowledgements = "Back-END"
  
  val primarySkillset = "Analyst and Developer"
- val languages = listOf("React.js", "Delphi", "SQL Server", "C#", "C++", "HTML", "CSS-") 
+ val languages = listOf("React.js", "Delphi", "SQL Server", "C#", "C++", "HTML", "CSS") 
 
 }
 ```
