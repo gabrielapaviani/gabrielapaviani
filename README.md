@@ -31,9 +31,7 @@ object **GABRIELA** {
 [instagram]: https://www.instagram.com/gabispaviani/
 [linkedin]: https://www.linkedin.com/in/gabriela-paviani-68b412265/
 
-<p align="left">
- ## 💌 Contact me: ⤵️
-</p>
+ ## 💌 **Contact me:** ⤵️
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
