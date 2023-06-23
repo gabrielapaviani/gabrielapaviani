@@ -28,8 +28,8 @@ object **GABRIELA** {
 <code><img height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 
 [twitter]: https://twitter.com/bxpavirada
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[instagram]: https://www.instagram.com/gabispaviani/
+[linkedin]: https://www.linkedin.com/in/gabriela-paviani-68b412265/
 
 <p align="left">
  ## 💌 Contact me: ⤵️
