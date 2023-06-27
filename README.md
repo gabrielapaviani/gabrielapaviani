@@ -9,9 +9,9 @@ I currently work at the company Bambozzi Alternadores developing their ERP and I
 ```kotlin
 object **GABRIELA** {
  val name = "Gabriela Paviani"
- val acknowledgements = "Back-END"
+ val acknowledgements = "Analyst and Developer"
  
- val primarySkillset = "Analyst and Developer"
+ val primarySkillset = "Back-END "
  val languages = listOf("React.js", "Delphi", "SQL Server", "C#", "C++", "HTML", "CSS") 
 
 }
