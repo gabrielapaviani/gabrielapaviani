@@ -29,7 +29,7 @@ object **GABRIELA** {
 
 [twitter]: https://twitter.com/bxpavirada
 [instagram]: https://www.instagram.com/gabispaviani/
-[linkedin]: https://www.linkedin.com/in/gabriela-paviani-68b412265/
+[linkedin]: https://www.linkedin.com/in/gabriela-paviani
 
  ## 💌 **Contact me:** ⤵️
 
