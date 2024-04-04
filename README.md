@@ -33,6 +33,5 @@ object **GABRIELA** {
 
  ## 💌 **Contact me:** ⤵️
 
-🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
