@@ -1,6 +1,8 @@
 ### Hi everyone👋
 
-I currently work at the company Bambozzi Alternadores developing their ERP and I study Systems Analysis and Development.
+Systems Analyst – Hospital Carlos Fernando Malzoni
+
+I work on the analysis, maintenance, and improvement of hospital systems, including requirements gathering, user support, and process optimization. Currently pursuing a degree in Systems Analysis and Development.
  
 ## ⭐ More about me
 
